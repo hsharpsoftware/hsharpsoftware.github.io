@@ -1,6 +1,6 @@
 ## Welcome to H# Software
 
-This is a intermediate homepage.
+This is an intermediate homepage.
 
 ### Support or Contact
 
