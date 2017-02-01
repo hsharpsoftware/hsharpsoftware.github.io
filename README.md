@@ -1,6 +1,6 @@
 ## Welcome to H# Software
 
-This is an intermediate homepage.
+This is an intermediate homepage. Visit [NašeÚkoly.CZ](http://naseukoly.cz) or [Sync.Today](https://sync.today).
 
 ### Support or Contact
 
