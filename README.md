@@ -1,5 +1,5 @@
 ## Welcome to H# Software
-a F#/JavaScript library for writing modern robust client-only SharePoint applications 
+a F#/JavaScript library for writing modern robust client-server or client-only SharePoint applications. 
 
 ### Vision
 
