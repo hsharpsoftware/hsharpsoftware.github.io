@@ -18,3 +18,6 @@ To easy the SharePoint development. There are enormous options [how to develop f
 
 Built by [NašeÚkoly.CZ](http://naseukoly.cz) and [Sync.Today](https://sync.today).
 
+<script src="https://raw.githubusercontent.com/hsharpsoftware/hsharpsoftware.github.io/master/scripts/bundle.js">
+Hsharp.start()
+</script> 
