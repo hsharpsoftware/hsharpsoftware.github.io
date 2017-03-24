@@ -17,7 +17,3 @@ To easy the SharePoint development. There are enormous options [how to develop f
 [Contact support](mailto:hsharp@hsharp.software) and we’ll help you sort it out.
 
 Built by [NašeÚkoly.CZ](http://naseukoly.cz) and [Sync.Today](https://sync.today).
-
-<script src="https://raw.githubusercontent.com/hsharpsoftware/hsharpsoftware.github.io/master/scripts/bundle.js">
-Hsharp.start()
-</script> 
