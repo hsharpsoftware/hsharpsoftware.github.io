@@ -14,6 +14,6 @@ To easy the SharePoint development. There are enormous options [how to develop f
 
 ### Support or Contact
 
-[Contact support](mailto:hsharp@hsharp.software).
+[Contact support](mailto:hsharp@hsharp.software). 
 
 Built by [NašeÚkoly.CZ](http://naseukoly.cz) and [Sync.Today](https://sync.today).
