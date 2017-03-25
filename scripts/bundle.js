@@ -9578,7 +9578,7 @@ var Page = function () {
     }, {
         key: "path",
         get: function () {
-            return "#blog";
+            return "*" + "#blog";
         }
     }]);
 
